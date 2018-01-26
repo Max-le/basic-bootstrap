@@ -1,0 +1,13 @@
+.container {
+	background-color: gray ;
+}
+
+.col1 {
+	background-color: green;
+}
+.col2{
+	background-color: blue;
+}
+.col3{
+		background-color: red;
+}
