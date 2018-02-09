@@ -1,16 +1,13 @@
-.container {
-	background-color: #5CA5E9 ;
+h1{
+	color: #5CA5E9;
 }
+h2{
+	color: #5CA5E9;
+}
+h3{
+	color: #5CA5E9;
+}
+p{
+	color: #5CA5E9;
 
-.col1 {
-	background-color: #5CA5E9;
-}
-.col2{
-	background-color: #5CA5E9;
-}
-.col3{
-		background-color: #5CA5E9;
-}
-body {
-	background-color:  #5CA5E9;
 }
